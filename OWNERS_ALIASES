@@ -144,6 +144,7 @@ aliases:
     - Okabe-Junya
     - t-inu
   sig-docs-ko-owners: # Admins for Korean content
+    - Eundms
     - gochist
     - ianychoi
     - jihoon-seo
