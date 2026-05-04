@@ -1,20 +1,17 @@
 ---
 layout: blog
 title: "Kubernetes v1.36：声明式验证正式发布"
-date: 2026-03-23T10:00:00-08:00
-draft: true
+date: 2026-05-05T10:35:00-08:00
 slug: kubernetes-v1-36-declarative-validation-ga
 author: >
   [Yongrui Lin](https://github.com/yongruilin) (Google)
-translator: >
 translator: >
   [Xin Li](https://github.com/my-git9) (DaoCloud)
 ---
 <!--
 layout: blog
 title: "Kubernetes v1.36: Declarative Validation Graduates to GA"
-date: 2026-03-23T10:00:00-08:00
-draft: true
+date: 2026-05-05T10:35:00-08:00
 slug: kubernetes-v1-36-declarative-validation-ga
 author: >
   [Yongrui Lin](https://github.com/yongruilin) (Google)
