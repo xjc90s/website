@@ -5,7 +5,7 @@ date: 2026-03-23T10:00:00-08:00
 draft: true
 slug: kubernetes-v1-36-declarative-validation-ga
 author: >
-  [Yongrui Lin](https://github.com/yongruilin)
+  [Yongrui Lin](https://github.com/yongruilin) (Google)
 translator: >
 translator: >
   [Xin Li](https://github.com/my-git9) (DaoCloud)
@@ -17,7 +17,7 @@ date: 2026-03-23T10:00:00-08:00
 draft: true
 slug: kubernetes-v1-36-declarative-validation-ga
 author: >
-  [Yongrui Lin](https://github.com/yongruilin)
+  [Yongrui Lin](https://github.com/yongruilin) (Google)
 -->
 
 <!--
